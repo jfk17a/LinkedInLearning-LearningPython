@@ -1,0 +1,8 @@
+{
+    "users": [
+        {"name":"john","gender":"male"},
+        {"name":"jane","gender":"female"},
+        {"name":"jim","gender":"male"},
+        {"name":"jackie","gender":"female"}
+    ]
+}
